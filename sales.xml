@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sales>
+	<sale>
+		<date>2003-10-05</date>
+		<isbn>0596005385</isbn>
+		<title>Off1ce 2003 XML Essentia1s</title>
+		<priceus>34.95
+			<quantity>200</quantity>
+			<customer IO="1025">Zork's Books</customer>
+		</priceus>
+	</sale>
+</sales>

@@ -1,0 +1,1365 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+ xmlns:udc="http://schemas.microsoft.com/data/udc"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>koshelev</Author>
+  <LastAuthor>koshelev</LastAuthor>
+  <LastPrinted>2017-11-24T18:00:41Z</LastPrinted>
+  <Created>2017-11-24T17:56:02Z</Created>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6084</WindowHeight>
+  <WindowWidth>17256</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="175" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.55">
+   <Column ss:AutoFitWidth="0" ss:Width="90.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="82.199999999999989"/>
+   <Column ss:AutoFitWidth="0" ss:Width="114.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99"/>
+   <Column ss:AutoFitWidth="0" ss:Width="91.199999999999989"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">name2</Data></Cell>
+    <Cell><Data ss:Type="String">name3</Data></Cell>
+    <Cell><Data ss:Type="String">pic</Data></Cell>
+    <Cell><Data ss:Type="String">price</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">4000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">3600</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">5222</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">9563</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">6544</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фильтры</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">4000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">3600</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">5222</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт9</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт10</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">9563</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт11</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">6544</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Деаэраторы</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">пункт1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">подпункт12</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">/img</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>159</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>165</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false">
+  <x2:Schema x2:ID="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"><xsd:element nillable="true" name="catalog"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="category" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="name" form="unqualified"></xsd:element><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="sub-category" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="name" form="unqualified"></xsd:element><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="sub-sub-category" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="name" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="pic" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="price" form="unqualified"></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="catalog_карта" x2:SchemaID="Schema1" x2:RootElement="catalog">
+   <x2:Entry x2:Type="table" x2:ID="1" x2:ShowTotals="false">
+    <x2:Range>Лист1!R2C1:R175C5</x2:Range>
+    <x2:HeaderRange>R1C1</x2:HeaderRange>
+    <x:FilterOn>True</x:FilterOn>
+    <x2:XPath>/catalog/category</x2:XPath>
+    <x2:Field x2:ID="name">
+     <x2:Range>RC</x2:Range>
+     <x2:XPath>name</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="name2">
+     <x2:Range>RC[1]</x2:Range>
+     <x2:XPath>sub-category/name</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="name3">
+     <x2:Range>RC[2]</x2:Range>
+     <x2:XPath>sub-category/sub-sub-category/name</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="pic">
+     <x2:Range>RC[3]</x2:Range>
+     <x2:XPath>sub-category/sub-sub-category/pic</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="price">
+     <x2:Range>RC[4]</x2:Range>
+     <x2:XPath>sub-category/sub-sub-category/price</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+   </x2:Entry>
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>catalog_карта</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">C:\server\data\htdocs\etml\catalog.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>

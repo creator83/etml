@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter>
+	<category>
+		<name>вид1</name>
+			<item>
+				<name>товар1</name>
+				<small-pic>/img</small-pic>
+				<big-pic>/img</big-pic>
+				<price>1200</price>
+			</item>
+			<item>
+				<name>товар2</name>
+				<small-pic>/img</small-pic>
+				<big-pic>/img</big-pic>
+				<price>1200</price>
+			</item>
+	</category>
+	<category>
+		<name>вид2</name>
+			<item>
+				<name>товар1</name>
+				<small-pic>/img</small-pic>
+				<big-pic>/img</big-pic>
+				<price>1450</price>
+			</item>
+			<item>
+				<name>товар2</name>
+				<small-pic>/img</small-pic>
+				<big-pic>/img</big-pic>
+				<price>3320</price>
+			</item>
+	</category>
+</filter>

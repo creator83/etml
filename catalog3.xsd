@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <!-- определение простых элементов -->
+   <xs:element name="name" type="xs:string"/>
+   <xs:element name="pic" type="xs:string"/>
+   <xs:element name="price" type="xs:decimal"/>
+   
+   <!-- определение составных элементов -->
+   <xs:element name="category">
+      <xs:complexType>
+         <xs:sequence>
+            <xs:element ref="name"/>
+            <xs:element ref="sub-category"/>
+         </xs:sequence>
+      </xs:complexType>
+   </xs:element>
+   
+   <xs:element name="sub-category">
+      <xs:complexType>
+         <xs:sequence>
+            <xs:element ref="name"/>
+            <xs:element ref="item"/>
+         </xs:sequence>
+      </xs:complexType>
+   </xs:element>
+   
+   <xs:element name="item">
+      <xs:complexType>
+         <xs:sequence>
+            <xs:element ref="name"/>
+            <xs:element ref="pic"/>
+			<xs:element ref="price"/>
+         </xs:sequence>
+      </xs:complexType>
+   </xs:element>   
+   
+   <xs:element name="catalog">
+      <xs:complexType>
+         <xs:sequence>
+            <xs:element ref="category"/>
+         </xs:sequence>
+      </xs:complexType>
+   </xs:element> 
+   
+</xs:schema>

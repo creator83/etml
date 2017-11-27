@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+<catalog>
+	<category>
+		<name>Фильтры</name>
+		<sub-category>
+			<name>пункт1</name>
+			<item>
+				<name>подпункт1</name>
+				<pic>/img</pic>
+				<price>1200</price>
+			</item>
+		</sub-category>
+	</category>
+</catalog>

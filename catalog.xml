@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="catalog.xsd">
+	<category>
+		<name-category>Фильтры</name-category>
+		<sub-category>
+			<name-sub-category>пункт1</name-sub-category>
+			<item>
+				<name-item>элемент1</name-item>
+				<pic>/img</pic>
+				<price>1200</price>
+			</item>
+			<item>
+				<name-item>элемент2</name-item>
+				<pic>/img</pic>
+				<price>1200</price>
+			</item>
+		</sub-category>
+		<sub-category>
+			<name-sub-category>пункт2</name-sub-category>
+			<item>
+				<name-item>элемент1</name-item>
+				<pic>/img</pic>
+				<price>1200</price>
+			</item>
+			<item>
+				<name-item>элемент2</name-item>
+				<pic>/img</pic>
+				<price>1200</price>
+			</item>
+		</sub-category>
+	</category>
+	<category>
+		<name-category>Деаэраторы</name-category>
+		<sub-category>
+			<name-sub-category>пункт1</name-sub-category>
+			<item>
+				<name-item>подпункт1</name-item>
+				<pic>/img</pic>
+				<price>4200</price>
+			</item>
+		</sub-category>
+	</category>
+</catalog>

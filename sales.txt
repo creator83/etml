@@ -1,0 +1,76 @@
+< ?xml version-"1.0" encoding-"UTF-8"?>
+<sales>
+ 
+<sale>
+<date>2003-10-05</date>
+<isbn>0596005385</isbn>
+<title>Off1ce 2003 XML Essentia1s</title>
+<priceus>34.95
+<quantity>200</quantity>
+<customer IO="1025">Zork's Books</customer>
+</priceus></sale>
+ 
+<sale>
+<date>2003-10-05</date>
+<isbn>0596002920</isbn>
+<title>XML in a Nutshell. 2nd Edition
+<priceus>39.95</priceus>
+<quantity>90</quantity>
+<customer ID="1025">Zork's Books</customer>
+</title></sale>
+ 
+<sale>
+<date>2003-10-05</date>
+<isbn>0596002378</isbn>
+<title>SAX2</title>
+<priceus>29.95</priceus>
+<quantity>300</quantity>
+<customer ID="1025">Zork's Books</customer>
+</sale>
+ 
+<sale>
+<date>2003-10-05</date>
+<isbn>0596005385</isbn>
+<title>Office 2003 XML Essentials</title>
+<priceus>34.95</priceus>
+<quantity>10</quantity>
+<customer ID="1029">Books of Glory</customer>
+</sale>
+ 
+<sale>
+<date>2003-10-05</date>
+<isbn>0596002920</isbn>
+<title>XML in a Nutshell, 2nd Edition</title>
+<priceus>39.95</priceus>
+<quantity>25</quantity>
+<customer ID="1029">Books of Glory</customer>
+</sale>
+ 
+<sale>
+<date>2003-10-07</date>
+<isbn>0596002378</isbn>
+<title>SAX2</title>
+<priceus>29.95</priceus>
+<quanti ty>5
+<customer ID="1029">Books of Glory</customer>
+</quanti></sale>
+ 
+<sale>
+<date>2003-10-18</date>
+<isbn>0596002378</isbn>
+<title>SAX2</title>
+<priceus>29.95</priceus>
+<quantity>15</quantity>
+<customer ID="2561">Title Wave</customer>
+</sale>
+ 
+<sale>
+<date>2003-10-21</date>
+<isbn>0596002920</isbn>
+<title>XML in a Nutshell. 2nd Edition</title>
+<priceus>39.95</priceus>
+<quantity>15</quantity>
+<customer ID="9021">Books for You</customer>
+</sale>
+ 
+</sales>

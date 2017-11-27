@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<category>
+		<name>Категория</name>
+		<sub-category>
+			<name>Подкатегория</name>
+			<item>
+				<name>Название</name>
+				<pic>Картинка</pic>
+				<price>Цена</price>
+			</item>
+		</sub-category>
+	</category>
+</catalog>
