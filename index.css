@@ -22,9 +22,13 @@ header {
 }
 .main-menu {
     display: inline-flex;
+    height: 150px;
     border: 5px solid blue;
+    /* align-items: flex-end; */
 }
-
+.main-menu__wrapper {
+    margin-top: 10px;
+}
 .main-menu-list__wrapper {
     display: none;
     position: absolute;
@@ -49,13 +53,10 @@ header {
     cursor: pointer;
 }
 .arrow {
+    position: relative;
+    top: 8px;
     text-align: center;
-    /* padding-top: 6px;
-    padding-bottom: -4px;
-    padding-left: 5px; */
-    border: 1px solid red;
-    /* margin: 5px auto; */
-    /* margin-top: 10px; */
+    /* border: 1px solid red;       */
 }
 
 .catalog {
@@ -70,4 +71,22 @@ header {
 }
 .main-part__wrapper {
     display: flex;
+}
+.search-and-status {
+    border: 1px solid red;
+}
+.search__button {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border:  2px solid black;
+}
+.search__text {
+    height: 30px;
+    margin-top: -10px;
+}
+.current-location {
+    display: inline-block;
+    width: 100%;
+    border: 2px solid pink;
 }

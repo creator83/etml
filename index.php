@@ -11,23 +11,23 @@
             <div class="logo">
                 <img src="#" alt="Логотип компании" class="logo__image">
             </div>
-                <div class="main-menu-list__wrapper main-menu-list__wrapper_about">
-                    <ul class="main-menu-list main-menu-list_about">
-                        <li class="main-menu-list__item">История</li>
-                        <li class="main-menu-list__item">Наши разработки</li>
-                        <li class="main-menu-list__item">Дилеры</li>
-                        <li class="main-menu-list__item">Сертификаты</li>
-                    </ul>
-                </div>
-                <div class="main-menu-list__wrapper main-menu-list__wrapper_clients">
-                    <ul class="main-menu-list main-menu-list_clients">
-                        <li class="main-menu-list__item">Оформление заказа</li>
-                        <li class="main-menu-list__item">Оплата</li>
-                        <li class="main-menu-list__item">Отгрузка и доставка</li>
-                        <li class="main-menu-list__item">Опросные листы</li>
-                        <li class="main-menu-list__item">Конструкторы</li>
-                    </ul>
-                </div>
+            <div class="main-menu-list__wrapper main-menu-list__wrapper_about">
+                <ul class="main-menu-list main-menu-list_about">
+                    <li class="main-menu-list__item">История</li>
+                    <li class="main-menu-list__item">Наши разработки</li>
+                    <li class="main-menu-list__item">Дилеры</li>
+                    <li class="main-menu-list__item">Сертификаты</li>
+                </ul>
+            </div>
+            <div class="main-menu-list__wrapper main-menu-list__wrapper_clients">
+                <ul class="main-menu-list main-menu-list_clients">
+                    <li class="main-menu-list__item">Оформление заказа</li>
+                    <li class="main-menu-list__item">Оплата</li>
+                    <li class="main-menu-list__item">Отгрузка и доставка</li>
+                    <li class="main-menu-list__item">Опросные листы</li>
+                    <li class="main-menu-list__item">Конструкторы</li>
+                </ul>
+            </div>
             <nav class="main-menu">
                 <div class="main-menu__wrapper main-menu__wrapper_about">
                     <div class="main-menu__header main-menu__header_about">О предприятии</div>
